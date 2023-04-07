@@ -6,7 +6,7 @@ Lingonuel using Expressjs as backend framework and reactjs as frontend framework
 
 Clone project Lingonuel
 
-``git clone https://gitlab.com/lingonuel/lingonuel.git``
+``git clone https://github.com/Rachang7718/Lingonuel.git``
 
 ## Cara ngepush
 
