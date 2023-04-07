@@ -1,0 +1,128 @@
+body {
+    justify-content: center;
+    display: flex;
+}
+
+.app {
+    background: url(../image/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.form .input-container {
+    padding-top: 30px;
+}
+
+.input {
+    width: 310px;
+    height: 45px;
+    border-radius: 15px;
+    padding-left: 20px;
+    border: #D8D8D8;
+    border-style: solid;
+    font-size: 16px;
+    font-weight: 700;
+    outline: none;
+    /* border: none; */
+    background-color: #EEEEEE;
+    color: #D8D8D8;
+    margin-bottom: 30px;
+}
+
+.btn-login {
+    font-size: 21px;
+    font-weight: 700;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    width: 345px;
+    height: 50px;
+    background-color: #FCC762;
+    cursor: pointer;
+}
+
+.garis-kiri {
+    color: #D8D8D8;
+    border: 1px solid;
+    margin-top: 70px;
+    width: 130px;
+
+}
+
+.garis-kanan {
+    color: #D8D8D8;
+    border: 1px solid;
+    width: 130px;
+    position: relative;
+    left: 215px;
+    bottom: 25px;
+}
+
+.or {
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    position: relative;
+    bottom: 10px;
+
+}
+
+.facebook {
+    color: #566C9B;
+    font-weight: 700;
+    border-radius: 10px;
+    width: 140px;
+    height: 40px;
+    border: #D8D8D8;
+    border-style: solid;
+    cursor: pointer;
+}
+
+.facebook .icon {
+    position: relative;
+    right: 10px;
+    top: 1px;
+    width: 15px;
+    height: 15px;
+}
+
+.google {
+    color: #3B78DC;
+    font-weight: 700;
+    border-radius: 10px;
+    width: 140px;
+    height: 40px;
+    border: #D8D8D8;
+    border-style: solid;
+    position: relative;
+    left: 208px;
+    bottom: 40px;
+    cursor: pointer;
+}
+
+.google .icon {
+    position: relative;
+    right: 10px;
+    top: 2px;
+    width: 16px;
+    height: 16px;
+}
+
+.not-have-acc {
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    bottom: 20px;
+    position: relative;
+}
+
+.not-have-acc .warna {
+    color: blue;
+}

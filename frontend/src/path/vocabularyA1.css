@@ -1,0 +1,92 @@
+.text-pa1{
+    font-size: 24px;
+    font-weight: 600;
+    color: #2A263A;
+    position: relative;
+    bottom: 120px;
+    right: 180px;
+}
+.panah{
+    position: relative;
+    top: 5px;
+}
+.text-pa2{
+    font-size: 15;
+    font-weight: 500;
+    position: relative;
+    bottom: 88px;
+    right: 532px;
+}
+.text-pa3{
+    font-size: 15;
+    font-weight: 500;
+    position: relative;
+    bottom: 60px;
+    right: 182px;
+}
+.title-a1{
+    font-size: 24px;
+    font-weight: 600;
+    color: #2A263A;
+    position: relative;
+    right: 181px;
+    bottom: 150px;
+}
+.gambar-a1{
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    position: relative;
+    top: 70px;
+    right: 480px;
+}
+.kotak-v2 {
+    height: 80px;
+    width: 120vh;
+    background-color: #E5E5E5;
+    border-top-left-radius: 15px;
+    position: absolute;
+    top: 537px;
+}
+.text-acc1{
+    font-weight: 600;
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+    right: 90px;
+}
+.gambar-a2{
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    position: relative; 
+    margin-top: 80px;
+    right: 180px;
+}
+.kotak-v3{
+    height: 80px;
+    width: 120vh;
+    background-color: #E5E5E5;
+    border-top-left-radius: 15px;
+    position: relative;
+    bottom: 84px;
+}
+.text-acc2{
+    font-weight: 600;
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+    right: 50px;
+}
+.gambar-a3 {
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    position: relative;
+    margin-top: -60px;
+    right: 180px;
+}
+.text-acc3{
+    font-weight: 600;
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+    right: 120px;
+}

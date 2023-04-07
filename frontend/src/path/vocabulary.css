@@ -1,0 +1,76 @@
+.a-2home{
+    text-decoration: none;
+    color: white;
+}
+.a-2vocabulary{
+    text-decoration: none;
+    color: #E17644;
+}
+.vocab{
+    font-size: 25px;
+    font-weight: 500;
+    color: #2A263A;
+    position: relative;
+    bottom: 150px;
+    right: 175px;
+}
+.text-v1{
+    font-size: 15px;
+    font-weight: 500;
+    position: relative;
+    bottom: 110px;
+    right: 300px;
+}
+.gambar3-v1{
+    position: relative;
+    right: 175px;
+    bottom: 80px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.kotak-v{
+    height: 100px;
+    width: 120vh;
+    background-color: #E5E5E5;
+    border-top-left-radius: 10px;
+    position: absolute;
+    bottom: 273px;
+
+}
+.a1-a2{
+    font-size: 23px;
+    font-weight: 600;
+    position: relative;
+    left: 20px;
+    color: #2A263A;
+}
+.text-a1{
+    font-weight: 500;
+    position: relative;
+    top: 30px;
+    right: 165px;
+}
+.text-a2{
+    font-weight: 500;
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+.gambar3-v2 {
+    position: relative;
+    top: 120px;
+    right: 450px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.kotak-v1 {
+    height: 100px;
+    width: 120vh;
+    background-color: #E5E5E5;
+    border-top-left-radius: 10px;
+    position: absolute;
+    top: 484px;
+}
+.a1-link{
+    color: black;
+}

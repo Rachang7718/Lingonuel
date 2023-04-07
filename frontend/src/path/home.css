@@ -1,0 +1,109 @@
+.logolingonuel-2 {
+    position: relative;
+    right: 180px;
+    top: 5px;
+}
+
+.lingonuel-2 {
+    position: relative;
+    right: 180px;
+    padding-left: 20px;
+}
+.a-1home{
+    text-decoration: none;
+    color: #E17644;
+}
+.a-1{
+    color: white;
+    text-decoration: none;
+}
+.profil{
+    width: 50px;
+    height: 50px;
+    border-radius: 1000px;
+    position: relative;
+    bottom: 180px;
+    left: 150vh;
+}
+.welcome{
+    font-size: 25px;
+    font-weight: 600;
+    position: relative;
+    bottom: 140px;
+    right: 200px;
+}
+.text-p1{
+    position: absolute;
+    right: 410px;
+    top: 170px;
+    font-weight: 500;
+    font-size: 17px;
+}
+.text-p2{
+    position: absolute;
+    right: 470px;
+    top: 200px;
+    font-weight: 500;
+    font-size: 17px;
+}
+.text-p3{
+    position: absolute;
+    right: 1008px;
+    top: 230px;
+    font-weight: 500;
+    font-size: 17px;
+}
+.list {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 20px;
+}
+.gambar1{
+    border-top-left-radius: 20px;
+    border: none;
+}
+.learn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.learning {
+    font-weight: 600;
+    font-size: 30px;
+}
+.find {
+    margin-top: 10px;
+    width: 160px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background-color: #FCC762;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+.study {
+    font-weight: 600;
+    font-size: 30px;
+}
+.gambar2 {
+    border-top-left-radius: 20px;
+    border: 1px;
+}
+.list-2 {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 20px;
+    position: relative;
+    left: 400px;
+    bottom: 280px;
+}
